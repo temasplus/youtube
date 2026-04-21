@@ -1,0 +1,14 @@
+f01: .ytp-cards-button,.ytp-cards-teaser{display: none !important;}
+f02: .ytp-cards-button,.ytp-cards-teaser{display: inline !important;}
+f03: .ytp-ce-element-show{display: none !important;}
+f04: .ytp-ce-element-show{display: inline !important;}
+f05: #contents.ytd-rich-grid-renderer{--ytd-rich-grid-items-per-row: var(--ytd-rich-grid-slim-items-per-row);}
+f06: [title='Shorts'], .ytd-reel-shelf-renderer, .ytGridShelfViewModelHost, ytd-rich-shelf-renderer[is-shorts]
+f07: [title='Shorts'], .ytd-reel-shelf-renderer, .ytGridShelfViewModelHost, ytd-rich-shelf-renderer[is-shorts]
+f08: [title='Shorts'], .ytd-reel-shelf-renderer, .ytGridShelfViewModelHost, ytd-rich-shelf-renderer[is-shorts]
+f09: .ytp-cards-button,.ytp-cards-teaser
+f10: .ytp-cards-button,.ytp-cards-teaser
+f11: .ytp-ce-element-show
+f12: .ytp-ce-element-show
+f13: #contents.ytd-rich-grid-renderer{--ytd-rich-grid-items-per-row: var(--ytd-rich-grid-slim-items-per-row);}
+

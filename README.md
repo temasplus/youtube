@@ -4,5 +4,5 @@ TemasPlus is a free app for changing YouTube layout. The idea was to make a syst
 - Website: www.temasplus.x10.mx
 
 - App Free 
-- Youtube TemasPlus Chrome: https://chromewebstore.google.com/detail/youtube-temasplus/ldiicanmmmikdmpdilnkghkphnancpno?hl=pt-BR
+- Youtube TemasPlus Chrome: https://chromewebstore.google.com/detail/youtube-temasplus/ldiicanmmmikdmpdilnkghkphnancpno
 - Youtube TemasPlus Firefox: https://addons.mozilla.org/firefox/addon/youtube-temasplus
